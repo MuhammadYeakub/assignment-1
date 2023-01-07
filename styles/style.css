@@ -1,7 +1,10 @@
-*{
+
+*{ 
+    /* for all font */
     font-family:'Work Sans' ;
 }
 header{
+
     background-image: url("../images/banner/banner2.png");
     height: 809px;
     width: 1600px;
@@ -53,6 +56,7 @@ header{
     margin-left: 1100px;
     margin-right: 230px;
 }
+/* main portion */
 
 main{
     margin-left: 160px;
@@ -226,6 +230,7 @@ text-align: center;
 .btn-down-section{
     padding-left: 64px;
 }
+/* footer portion */
 footer{
     height: 577px;
     width: 1600px;
