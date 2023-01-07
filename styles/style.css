@@ -1,0 +1,303 @@
+*{
+    font-family:'Work Sans' ;
+}
+header{
+    background-image: url("../images/banner/banner2.png");
+    height: 809px;
+    width: 1600px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.header{
+    text-align: right;
+}
+.heading-title{
+    color: #151414;
+    padding-top: 216px;
+    padding-left: 845px;
+    width: 525px;
+    height: 200px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    
+    
+}
+.heading-description {
+    width: 500px;
+    height: 80px;
+    font-style: normal;
+    text-shadow: #444343;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    padding-left: 875px;
+    padding-right: 500px;
+    padding-top: 0px;
+    color: #444343;
+
+}
+.btn-primary{
+    font-weight: 700;
+    font-size: 20px;
+    color: #FFFFFF;
+    height: 64px;
+    border: 0;
+    border-radius: 5px;
+    padding:18px,35px ;
+    background: #FD6E0A;
+}
+#btn-primary-set{
+    margin-left: 1100px;
+    margin-right: 230px;
+}
+
+main{
+    margin-left: 160px;
+    margin-top: 120px;
+
+}
+.main-top{
+    margin-right: 87px;
+    display: flex;
+
+}
+.image-main{
+    width: 569px;
+    height: 723.3px;
+    border-right: 87px;
+    padding-right: 50px;
+}
+.main-top-2{
+    margin-top: 200px;
+    width: 288px;
+    height: 94px;
+    left: 862px;
+    top: 1178px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
+}
+    
+.main-about{
+    width: 416px;
+    height: 104px;
+    left: 862px;
+    top:1296px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+}
+.main-description{
+    margin-top: 16px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+    margin-right: 100px;
+}
+
+.second-section{
+    display: flex;
+    padding-top: 50px;
+}
+.my-image{
+    height: 700px;
+    width: 500px;
+}
+.secod-section-div{
+    height: 700px;
+    width: 500px;
+    background-color: rgba(250, 250, 213, 0.5);
+}
+.secod-section-div h1{
+    padding-right: 100px;
+    padding-top: 100px;
+    text-align: center;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    color: #151414;
+}
+.main-about-2{
+    text-align:justify;
+    width: 416px;
+    height: 104px;
+    left: 862px;
+    top:1296px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+    padding-bottom: 10px;
+}
+
+
+
+
+
+.main-developer-about{
+    margin-left: 10px;
+    display: flex;
+    line-height: 26px;
+}
+.main-my-plan{
+    padding-top: 50px;
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
+    margin-bottom: 70px;
+}
+.my-plan-section{
+    display: flex;
+    text-align: center;
+    padding-left: 40px;
+    padding-bottom: 80px;
+}
+.my-plan-icon{
+    align-items: center;
+    left: 500px;
+}
+.icon-section{
+   padding-right: 100px;
+}
+.icon-section h2{
+    font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 35px;
+text-align: center;
+}
+.icon-section p{
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    text-align: center;
+    color: #737272;
+}
+.icon-section img{
+    align-items: center;
+} 
+.down-section{
+    background-image: url('../images/gradient3.png') ,url('../images/watch.png');
+    height: 300px;
+    width: 1140px;
+    background-repeat: no-repeat;
+    padding-bottom: 130px;
+    padding-right: 200px;
+}
+.down-section div{
+    margin-top: 64px;
+}
+.down-section-text{
+    padding-top: 59px;
+    padding-left: 80px;
+    padding-right: 50px;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    width: 459px;
+    height: 50px;
+}
+.btn-secondary{
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    color: #F15B22;
+    width: 160px;
+    height: 64px;
+    border-radius: 5px;
+    border: 0;
+}
+.btn-down-section{
+    padding-left: 64px;
+}
+footer{
+    height: 577px;
+    width: 1600px;
+    background-color: #151414;
+    display: flex;
+}
+footer section{
+    color: #F8F8F8;
+}
+.footer-left{
+    margin-left: 230px;
+    margin-top: 130px;
+    width: 485px;
+    height: 317px;
+}
+.footer-left h1{
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 53px;
+    color: #F8F8F8;
+}
+.footer-right{
+    margin-top: 130px;
+    height: 204;
+    width: 325;
+    padding-left: 250px;
+}
+.footer-left p{
+    color: #FFFFFF;
+}
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: #F3F3F3;;
+    opacity: 1; /* Firefox */
+  }
+.footer-left-descprition{
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+color: #FFFFFF;
+}
+.email{
+    line-height: 26px;
+    padding-bottom: 8px;
+}
+.footer-icon{
+    display: flex;
+}
+.footer-icon img{
+    padding-right: 17px;
+}
+.subscrive{
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 29px;
+    color: #FFFFFF;
+}
+.footer-right form{
+    color: #FFFFFF;
+}
+.enter-email{
+    height: 64px;
+    width: 325px;
+    border-radius: 7px;
+    border-color: #f3efef;
+    background-color: transparent;
+    padding-left: 15px;
+    color: #f3efef;
+    font-size: 18px;
+}
+#call-now{
+    margin-top: 20px;
+}
+
